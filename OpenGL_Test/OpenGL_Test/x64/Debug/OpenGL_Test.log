@@ -1,0 +1,2 @@
+﻿  Aplication.cpp
+C:\Users\Elzbieta\Documents\GitHub\OpenGL-Learning\OpenGL_Test\OpenGL_Test\src\Aplication.cpp(1,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
